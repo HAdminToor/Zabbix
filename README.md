@@ -1,4 +1,4 @@
-# SysAdm
+# Z-Adm
 
 ### Zabbix БД PostgreSQL. Выбор технологии решения обоснуйте.**  
 
